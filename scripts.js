@@ -13,8 +13,8 @@ function init()
 
 function gremio()
 {
-	this.name = "Grêmio";
-	this.usualName = "Grêmio";
+	this.name = "GrÃªmio";
+	this.usualName = "GrÃªmio";
 	this.nickName = "gremista";
 	this.rival = "Internacional";
 	this.wick = "gremista";
@@ -25,7 +25,7 @@ function inter()
 	this.name = "Internacional";
 	this.usualName = "Inter";
 	this.nickName = "colorado";
-	this.rival = "Grêmio";
+	this.rival = "GrÃªmio";
 	this.wick = "colorada";
 }
 
