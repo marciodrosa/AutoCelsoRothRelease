@@ -1,3 +1,3 @@
 AUTO CELSO ROTH CONTRACTATION RELEASE GENERATOR
 
-Aplicação que gera uma notícia automática sobre a contratação do técnico Celso Roth pelo Grêmio ou Inter.
+AplicaÃ§Ã£o que gera uma notÃ­cia automÃ¡tica sobre a contrataÃ§Ã£o do tÃ©cnico Celso Roth pelo GrÃªmio ou Inter.
